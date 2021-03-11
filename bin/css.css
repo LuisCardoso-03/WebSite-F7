@@ -1,0 +1,30 @@
+#container{
+	color: blue;
+}
+
+#caixa {
+	height: 50px;
+    width:  50px;
+}
+
+#azul {
+	background-color: blue;
+	
+	
+}
+#rodape {
+	width: 1400px;
+  height: 700px;
+ display:block;
+ margin:0
+
+ }
+
+#red {
+	background-color: red;
+}
+
+#instagram {
+	background-image: url("new_instagram_logo-1024x1024.jpg")
+}
+
