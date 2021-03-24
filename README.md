@@ -8,7 +8,7 @@
 
  - Html
  - CSS
- - JavaScript JS
+ - JavaScript JS  
 
 
   <h3 align="center">F7 Company 👍🏻</h3>
